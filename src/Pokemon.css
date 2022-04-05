@@ -1,0 +1,9 @@
+.wrap {
+  width: 300px;
+  margin: 0 auto;
+  background-color: rgb(247, 245, 245);
+}
+
+.pocpic {
+  display: block;
+}
